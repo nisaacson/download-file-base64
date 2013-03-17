@@ -1,7 +1,7 @@
 {
-  "name": "files",
-  "version": "0.0.0",
-  "description": "ERROR: No README.md file found!",
+  "name": "download-base64-imacros",
+  "version": "1.0.1",
+  "description": "Download a binary file from a remote url and base64 encode the result",
   "main": "index.js",
   "directories": {
     "test": "test"
