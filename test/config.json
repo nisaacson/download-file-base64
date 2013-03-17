@@ -1,0 +1,22 @@
+{
+  "couch": {
+    "host": "localhost",
+    "protocol": "http",
+    "port": 5984,
+    "database": "docparse_test"
+  },
+  "loggly": {
+    "inputToken": "foobar "
+  },
+  "seaport": {
+    "host": "localhost",
+    "port": 3679
+  },
+  "application": {
+    "portRange":  [3002, 3002]
+  },
+  "bcrypt": {
+    "rounds": 1
+  },
+  "test": true
+}
